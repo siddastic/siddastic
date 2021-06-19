@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Siddhant Sharma👋 <div align = 'right'> [![GitHub siddastic stars](https://img.shields.io/github/stars/siddastic?label=stars&style=social)](https://github.com/siddastic) [![GitHub siddastic follower](https://img.shields.io/github/followers/siddastic?label=follow&style=social)](https://github.com/siddastic) ![](https://komarev.com/ghpvc/?username=siddastic&color=yellow) </div>
 <!--
 **siddastic/siddastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Stats 📊
+
+<details>
+  <summary><b>Overall Github Stats</b></summary>
+  <a href="https://github.com/siddastic/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=siddastic&count_private=true&hide=issues&show_icons=true" /></a>
+  <a href="https://github.com/siddastic/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddastic&hide=jupyter%20notebook&layout=compact" /></a>
+</details>
