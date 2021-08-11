@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 ### Stats 📊
 
-<!-- <details> -->
+<details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
-  <a href="https://github.com/siddastic/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=siddastic&count_private=true&hide=issues&show_icons=true&theme=radical" /></a>
-  <a href="https://github.com/siddastic/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddastic&hide=jupyter%20notebook&layout=compact&theme=radical" /></a>
-<!-- </details> -->
-<br/>
-<!-- <details> -->
+  <br/>
+  <a href="https://github.com/siddastic/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=siddastic&count_private=true&hide=issues&show_icons=true&theme=buefy" /></a>
+  <a href="https://github.com/siddastic/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddastic&hide=jupyter%20notebook&layout=compact&theme=buefy" /></a>
+</details>
+<details>
   <summary>:fire: GitHub Streak</summary>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddastic&theme=radical&show-icons=true" alt="GitHub Streak" align="center" />
-<!-- </details> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddastic&theme=buefy&show-icons=true" alt="GitHub Streak" align="center" />
+</details>
