@@ -37,3 +37,5 @@ Here are some ideas to get you started:
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddastic&theme=buefy&show-icons=true" alt="GitHub Streak" align="center" />
 </details>
+
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddastic&theme=monokai" alt="Profile Summary" align="center"/>
