@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
   <br/>
-  <a href="https://github.com/siddastic/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=siddastic&count_private=true&hide=issues&show_icons=true&theme=buefy" /></a>
-  <a href="https://github.com/siddastic/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddastic&hide=jupyter%20notebook&layout=compact&theme=buefy" /></a>
+  <a href="https://github.com/siddastic/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=siddastic&count_private=true&hide=issues&show_icons=true&theme=transparent" /></a>
+  <a href="https://github.com/siddastic/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddastic&hide=jupyter%20notebook&layout=compact&theme=transparent" /></a>
 </details>
 <details>
   <summary>:fire: GitHub Streak</summary>
